@@ -18,9 +18,8 @@ A Imersão de Dados da Alura é um evento prático onde exploramos o poder do Py
 - **Python 3**
 - **Jupyter Notebook**
 - **Pandas** (Manipulação de dados)
-- **Matplotlib/Seaborn** (Visualização)
+- **Google Colab** (Visualização)
 - **Numpy** (Cálculos numéricos)
-- **Scikit-learn** (Machine Learning - quando aplicável)
 
 ## 📂 Estrutura do Repositório
 ```
@@ -48,11 +47,10 @@ imersao-dados-alura/
    ```
 
 ## 📚 Conteúdo Abordado
-- [Dia 1] Introdução à análise de dados com Pandas
-- [Dia 2] Visualização de dados com Matplotlib e Seaborn
-- [Dia 3] Limpeza e pré-processamento de dados
-- [Dia 4] Análise exploratória avançada
-- [Dia 5] Introdução a machine learning com Scikit-learn
+- [Dia 1] Explore Dados com Pandas
+- [Dia 2] Aprenda a Limpar e Preparar os Dados
+- [Dia 3] Crie Gráficos e conte histórias com Dados
+- [Dia 4] Construa um Dashboard interativo
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias, correções ou novos conteúdos relacionados à imersão.
