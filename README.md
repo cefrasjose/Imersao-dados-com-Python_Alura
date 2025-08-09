@@ -18,7 +18,7 @@ A Imersão de Dados da Alura é um evento prático onde exploramos o poder do Py
 - **Python 3**
 - **Jupyter Notebook**
 - **Pandas** (Manipulação de dados)
-- **Google Colab** (Visualização)
+- **Matplotlib, Seaborn, Plotly** (Visualização)
 - **Numpy** (Cálculos numéricos)
 
 ## 📂 Estrutura do Repositório
@@ -27,8 +27,8 @@ imersao-dados-alura/
 │
 ├── notebooks/          # Contém todos os Jupyter Notebooks da imersão
 ├── data/               # Arquivos de dados utilizados
-├── outputs/            # Resultados, gráficos e tabelas gerados
 ├── README.md           # Este arquivo
+├── app.py              # Aplicação 
 └── requirements.txt    # Dependências do projeto
 ```
 
